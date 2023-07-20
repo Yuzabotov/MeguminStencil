@@ -8,7 +8,9 @@
             "sources": [
                 "https://github.com/Yuzabotov/MeguminStencil/blob/main/MEGU_rmegu.png"
             ],
-            
+            "priorityMaskSources": [
+                "https://github.com/Yuzabotov/MeguminStencil/blob/main/MEGU_rmegu%20copy.png"
+            ],
             "x": 648,
             "y": 672
         },
@@ -24,3 +26,4 @@
         
     ]
 }
+
