@@ -1,0 +1,25 @@
+{
+    "faction": "/r/osuplace",
+    "contact": "discord.osu.place - littleendu#0 or emi.x#0",
+    "notifications": "https://broadcaster.osu.place",
+    "templates": [
+        {
+            "name": "osu! logo; Bad Apple!! text; Border;",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1119800434182344714/1131635394895687790/osu_logo_8.png"
+            ],
+            "priorityMaskSources": [
+                "https://cdn.discordapp.com/attachments/958285020433375252/1121581323321094225/osu_mask.png"
+            ],
+            "x": 648,
+            "y": 672
+        }
+        
+    ],
+    "whitelist": [
+        
+    ],
+    "blacklist": [
+        
+    ]
+}
