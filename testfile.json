@@ -1,0 +1,26 @@
+{
+    "faction": "/r/osuplace",
+    "contact": "discord.osu.place - littleendu#0 or emi.x#0",
+    "notifications": "https://broadcaster.osu.place",
+    "templates": [
+        {
+            "name": "osu! logo; Bad Apple!! text; Border;",
+            "sources": [
+                "https://github.com/Yuzabotov/MeguminStencil/blob/main/MEGU_rmegu.png"
+            ],
+            
+            "x": 648,
+            "y": 672
+        },
+        
+    ],
+    "whitelist": [
+        {
+            "name": "touhou",
+            "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
+        },
+    ],
+    "blacklist": [
+        
+    ]
+}
