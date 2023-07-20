@@ -17,10 +17,6 @@
         
     ],
     "whitelist": [
-        {
-            "name": "touhou",
-            "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
-        },
     ],
     "blacklist": [
         
